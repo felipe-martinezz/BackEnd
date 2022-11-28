@@ -1,0 +1,24 @@
+{
+  "name": "clase8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe-martinezz/BackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "bugs": {
+    "url": "https://github.com/felipe-martinezz/BackEnd/issues"
+  },
+  "homepage": "https://github.com/felipe-martinezz/BackEnd#readme"
+}

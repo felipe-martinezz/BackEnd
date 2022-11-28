@@ -1,0 +1,22 @@
+[
+    {
+        "title": "CAMISETA GOLDEN STATE WARRIORS CITY 2021/2022",
+        "price": 2790,
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0567/6639/8509/products/GSWNegra_480x480.jpg?v=1644344617",
+        "id": 0
+    },
+
+    {
+       "title": "CAMISETA MEMPHIS GRIZZLIES 2021/2022",
+       "price": 2790,
+       "thumbnail": "https://cdn.shopify.com/s/files/1/0567/6639/8509/products/52df31e160af14b5e4ad8950f8ae1508_480x480.jpg?v=1656439416",
+       "id": 1
+    },
+
+    {
+       "title": "CAMISETA LOS SUNS LOCAL 2020/2021",
+       "price": 2790,
+       "thumbnail": "https://cdn.shopify.com/s/files/1/0567/6639/8509/products/gdgdgd_480x480.jpg?v=1644345207",
+       "id": 2
+    }
+]
